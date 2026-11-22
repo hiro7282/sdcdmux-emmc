@@ -15674,7 +15674,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irf7606pbf.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ZXM64P02X.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -21991,7 +21991,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irf7606pbf.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ZXM64P02X.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -24081,7 +24081,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irf7606pbf.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ZXM64P02X.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26172,7 +26172,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "http://www.irf.com/product-info/datasheets/data/irf7606pbf.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ZXM64P02X.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
